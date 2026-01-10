@@ -1,6 +1,6 @@
 package io.github.safeslope.skicard.dto;
 
 public record VerifyCardRequest(
-        String cardUid,
+        String skiTicketId,
         Integer resortId
 ) {}
