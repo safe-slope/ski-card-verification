@@ -5,7 +5,7 @@ WORKDIR /app
 
 # Copy the built JAR from the builder stage
 # The Spring Boot Maven plugin creates an executable JAR in the api module
-COPY /app/target/app.jar app.jar
+COPY target/app.jar app.jar
 
 # Expose the application port
 EXPOSE 8080
