@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/safe-slope/ski-card-verification/compare/lock-microservice-v1.1.0...lock-microservice-v1.1.1) (2026-01-26)
+
+
+### Bug Fixes
+
+* Fix path inconsistencies in workflow and Dockerfile for JAR copying ([0fc98e3](https://github.com/safe-slope/ski-card-verification/commit/0fc98e3711d447a4c8fc98f44d5db899796ff891))
+
 ## [1.1.0](https://github.com/safe-slope/ski-card-verification/compare/lock-microservice-v1.0.0...lock-microservice-v1.1.0) (2026-01-26)
 
 
