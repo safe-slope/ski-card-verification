@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/safe-slope/ski-card-verification/compare/ski-card-verification-microservice-v1.2.0...ski-card-verification-microservice-v1.2.1) (2026-01-27)
+
+
+### Bug Fixes
+
+* Add condition to skip Qodana job for certain PR titles and remove dependency from release-please job ([dda88f6](https://github.com/safe-slope/ski-card-verification/commit/dda88f61afc7660de4658b8eadfa181071c5e363))
+
 ## [1.2.0](https://github.com/safe-slope/ski-card-verification/compare/ski-card-verification-microservice-v1.1.1...ski-card-verification-microservice-v1.2.0) (2026-01-27)
 
 
