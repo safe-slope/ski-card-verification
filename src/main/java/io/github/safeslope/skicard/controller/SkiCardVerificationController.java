@@ -13,8 +13,8 @@ public class SkiCardVerificationController {
         //Dummy
         return new VerifyCardResponse(
                 true,                     
-                "ACTIVE",                  
-                001,                      
+                "ACTIVE",
+                1,
                 "Card verified (dummy service)"
         );
     }
