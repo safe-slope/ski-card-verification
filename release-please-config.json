@@ -2,8 +2,8 @@
   "release-type": "maven",
   "packages": {
     ".": {
-      "component": "lock-microservice",
-      "package-name": "lock-microservice",
+      "component": "ski-card-verification-microservice",
+      "package-name": "ski-card-verification-microservice",
       "release-type": "maven"
     }
   },
