@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/safe-slope/ski-card-verification/compare/ski-card-verification-microservice-v1.2.1...ski-card-verification-microservice-v1.2.2) (2026-01-29)
+
+
+### Bug Fixes
+
+* Change Hibernate ddl-auto setting to update for staging environment ([fc94ea1](https://github.com/safe-slope/ski-card-verification/commit/fc94ea163f4f2ec5ace7664a0ca62510bd00f3ce))
+
 ## [1.2.1](https://github.com/safe-slope/ski-card-verification/compare/ski-card-verification-microservice-v1.2.0...ski-card-verification-microservice-v1.2.1) (2026-01-27)
 
 
